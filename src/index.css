@@ -1,0 +1,4 @@
+.container {
+  overflow-x: auto;
+  scrollbar-gutter: stable;
+}
